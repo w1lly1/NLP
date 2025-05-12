@@ -1,0 +1,595 @@
+数据集包含 148 条记录
+
+记录 0:
+标题: Trump: If North Korea Escalates Nuclear Threat, 'They Will Be Met With Fire And Fury'
+情感判断: 消极
+--------------------------------------------------
+记录 1:
+标题: Intelligence chiefs allege Russians have compromising personal information on Donald Trump: The claims allege the now-President-elect had been in contact with Russian intermediaries for five years
+情感判断: 消极
+--------------------------------------------------
+记录 2:
+标题: Trump's Second Travel Ban Blocked by U.S. Judge
+情感判断: 消极
+--------------------------------------------------
+记录 3:
+标题: ‘The Germans are bad, very bad’: Trump pledges to ‘stop’ German car sales to US
+情感判断: 消极
+--------------------------------------------------
+记录 4:
+标题: Comey: FBI investigating possible collusion between Russia, Trump
+情感判断: 消极
+--------------------------------------------------
+记录 5:
+标题: Sweden asks the U.S. to explain Trump comment on Sweden
+情感判断: 消极
+--------------------------------------------------
+记录 6:
+标题: Donald Trump drops out of Saudi Arabia event due to 'exhaustion'
+情感判断: 积极
+--------------------------------------------------
+记录 7:
+标题: Michael Flynn resigns: Trump's national security adviser quits over Russia links
+情感判断: 中性
+--------------------------------------------------
+记录 8:
+标题: “Canada will welcome you,” Trudeau invites refugees as Trump bans them
+情感判断: 消极
+--------------------------------------------------
+记录 9:
+标题: Twitter Lights Up After 'Too Embarrassing to Watch' Trump-Merkel Press Conference - President Donald Trump slipped up and called the U.S. a "company," ignored German Chancellor Angela Merkel's request for a handshake, and called a German press outlet "fake news"
+情感判断: 消极
+--------------------------------------------------
+记录 10:
+标题: Trump appears to admit Russia interfered in the US election in a tweet criticizing Obama
+情感判断: 消极
+--------------------------------------------------
+记录 11:
+标题: Donald Trump says he wants to expand US nuclear arsenal, make it 'top of the pack'
+情感判断: 消极
+--------------------------------------------------
+记录 12:
+标题: Donald Trump Jr. on Tuesday released a stunning chain of emails highlighting his conversations about setting up a controversial campaign meeting with a Russian lawyer offering compromising information on Hillary Clinton.
+情感判断: 消极
+--------------------------------------------------
+记录 13:
+标题: Trump misunderstood MIT climate research, university officials say: Massachusetts Institute of Technology officials said U.S. President Donald Trump badly misunderstood their research when he cited it on Thursday to justify withdrawing the United States from the Paris Climate Agreement.
+情感判断: 消极
+--------------------------------------------------
+记录 14:
+标题: Donald Trump to strip all funding from State Dept team promoting women's rights around the world - Leaked plan comes as First Daughter Ivanka defends her father's record with women
+情感判断: 消极
+--------------------------------------------------
+记录 15:
+标题: Donald Trump admits ‘Sweden attack’ comments were based on debunked 'Fox News' report
+情感判断: 消极
+--------------------------------------------------
+记录 16:
+标题: Renewable energy is becoming so cheap the US will meet Paris commitments even if Trump withdraws
+情感判断: 积极
+--------------------------------------------------
+记录 17:
+标题: Vladimir Putin gave direct instructions to help elect Trump, report says
+情感判断: 积极
+--------------------------------------------------
+记录 18:
+标题: Comey says Trump fired him to undermine FBI Russia investigation
+情感判断: 消极
+--------------------------------------------------
+记录 19:
+标题: Donald Trump to sign executive order to dramatically reduce funding of United Nations
+情感判断: 消极
+--------------------------------------------------
+记录 20:
+标题: Former MI6 agent Christopher Steele's frustration as FBI sat on Donald Trump Russia file for months: Steele was so concerned by revelations he worked without payment after Trump's election victory in November
+情感判断: 消极
+--------------------------------------------------
+记录 21:
+标题: Mexico threatens trade war over Trump wall tax
+情感判断: 消极
+--------------------------------------------------
+记录 22:
+标题: Berlin mayor to Donald Trump: 'Don't build this wall'
+情感判断: 消极
+--------------------------------------------------
+记录 23:
+标题: Trump signs largest arms deal in American history with Saudi Arabia despite warnings from human rights advocates that the deal risks making the US complicit in war crimes committed by the Saudi-led coalition in Yemen.
+情感判断: 消极
+--------------------------------------------------
+记录 24:
+标题: Seoul rejects Trump demand, won’t pay for missile system
+情感判断: 消极
+--------------------------------------------------
+记录 25:
+标题: Trump tried to convince NSA chief to absolve him of any Russian Collusion: A recent NSA memo documents a phone call in which Trump pressures agency chief Admiral Mike Rogers to state publicly that there is no evidence of collusion between his campaign and Russia
+情感判断: 消极
+--------------------------------------------------
+记录 26:
+标题: The overwhelming global response to Trump's decision to pull the U.S. out of the Paris climate agreement was essentially, "Go jump in a lake" - or as one Germany tabloid succinctly phrased it in a widely circulated headline: "Earth to Trump: F*ck You!"
+情感判断: 消极
+--------------------------------------------------
+记录 27:
+标题: North Korea accuses Trump of being 'selfish' over Paris climate pact
+情感判断: 消极
+--------------------------------------------------
+记录 28:
+标题: Donald Trump asks lawyers about powers to pardon himself and his children in Russia probe, report reveals
+情感判断: 消极
+--------------------------------------------------
+记录 29:
+标题: U.S. President Donald Trump and Russian President Vladimir Putin held a second, previously undisclosed meeting at the G20 summit
+情感判断: 消极
+--------------------------------------------------
+记录 30:
+标题: Mexicans Launch Boycotts of U.S. Companies in Fury at Donald Trump
+情感判断: 消极
+--------------------------------------------------
+记录 31:
+标题: Donald Trump appears to invent Sweden terror attack during Florida rally speech
+情感判断: 消极
+--------------------------------------------------
+记录 32:
+标题: Donald Trump state visit: MPs of all parties demand 'disgusting' US President's trip be cancelled | Debate in Westminster Hall triggered after a petition to block state visit reaches almost two million signatories
+情感判断: 消极
+--------------------------------------------------
+记录 33:
+标题: Donald Trump invites Rodrigo Duterte to Washington
+情感判断: 消极
+--------------------------------------------------
+记录 34:
+标题: Swedish embassy offers to 'inform' Donald Trump on country's immigration and integration policies
+情感判断: 消极
+--------------------------------------------------
+记录 35:
+标题: Trump agrees 'not to terminate NAFTA at this time'
+情感判断: 中性
+--------------------------------------------------
+记录 36:
+标题: EU will remain top investor against climate change, in defiance of Donald Trump's policies - 'We, Europeans, must lead the free world against climate sceptics'
+情感判断: 消极
+--------------------------------------------------
+记录 37:
+标题: North Korea: Senile Donald Trump Plays Too Much Golf
+情感判断: 消极
+--------------------------------------------------
+记录 38:
+标题: Mexico to Trump: No funding for wall, but we’ll help Texas: Trump's tweets aren't swaying the country, but Mexican officials said they are prepared to help those impacted by Harvey.
+情感判断: 消极
+--------------------------------------------------
+记录 39:
+标题: Trump asked then-FBI Director James Comey to end the agency's investigation into ties between former White House national security adviser Michael Flynn and Russia, according to a source who has seen a memo written by Comey.
+情感判断: 积极
+--------------------------------------------------
+记录 40:
+标题: President Trump shoved the Montenegro prime minister at NATO
+情感判断: 积极
+--------------------------------------------------
+记录 41:
+标题: Trump Hotel Owner in Toronto Reaches Deal to Remove Trump Brand
+情感判断: 积极
+--------------------------------------------------
+记录 42:
+标题: President Trump asserted his “complete power to pardon” in a tweet Saturday after reports emerged this week that he was discussing his ability to pardon people in the ongoing investigation into ties between his campaign and Russia.
+情感判断: 消极
+--------------------------------------------------
+记录 43:
+标题: Donald Trump's claims his team had no contact with Russia during campaign contradicted by Moscow officials
+情感判断: 消极
+--------------------------------------------------
+记录 44:
+标题: Twitter suspends army of fake accounts after Trump thanks propaganda ‘bot’ for supporting him
+情感判断: 消极
+--------------------------------------------------
+记录 45:
+标题: Sean Spicer: White House is no longer taking question on Trump and Russia
+情感判断: 消极
+--------------------------------------------------
+记录 46:
+标题: President Trump Will Give a Speech on Islam in Saudi Arabia
+情感判断: 积极
+--------------------------------------------------
+记录 47:
+标题: G7 leaders blame Trump for failure to reach climate change agreement
+情感判断: 消极
+--------------------------------------------------
+记录 48:
+标题: Angela Merkel reportedly had to explain the 'fundamentals' of EU trade to Trump 11 times
+情感判断: 消极
+--------------------------------------------------
+记录 49:
+标题: Trump intervenes to grant rejected Afghan girls entry to U.S. for robot contest
+情感判断: 消极
+--------------------------------------------------
+记录 50:
+标题: G7 leaders blame Trump for failure to reach climate change agreement
+情感判断: 消极
+--------------------------------------------------
+记录 51:
+标题: Angela Merkel reportedly had to explain the 'fundamentals' of EU trade to Trump 11 times
+情感判断: 消极
+--------------------------------------------------
+记录 52:
+标题: The Pope gave Donald Trump a 192-page letter he wrote on climate change
+情感判断: 消极
+--------------------------------------------------
+记录 53:
+标题: Former Mexican president mocks Donald Trump over golf holiday: 'If you're not happy with job, just leave'. Trump has spent 58 days out of his first 195 at the properties he owns.
+情感判断: 消极
+--------------------------------------------------
+记录 54:
+标题: Many foreign tourists say they're afraid to visit the US after Trump travel ban
+情感判断: 消极
+--------------------------------------------------
+记录 55:
+标题: In his Riyadh speech, President Trump described Islam as "one of the world’s great faiths"
+情感判断: 消极
+--------------------------------------------------
+记录 56:
+标题: Trump doubles down on Sweden claims saying its immigration policy is not 'working out'
+情感判断: 消极
+--------------------------------------------------
+记录 57:
+标题: UN denounces Trump's travel ban as 'mean-spirited' and illegal under human rights law - 'Discrimination on nationality alone is forbidden under human rights law'
+情感判断: 积极
+--------------------------------------------------
+记录 58:
+标题: Cuba Says President Trump's Speech Was 'Loaded With Hostile Rhetoric'
+情感判断: 消极
+--------------------------------------------------
+记录 59:
+标题: Trump campaign had at least 18 undisclosed contacts with Russians
+情感判断: 消极
+--------------------------------------------------
+记录 60:
+标题: Donald Trump 'not even aware of where intelligence was from' before telling Russia, White House reveals
+情感判断: 消极
+--------------------------------------------------
+记录 61:
+标题: Norway pledges $10 million to counter Trump's global anti-abortion move
+情感判断: 消极
+--------------------------------------------------
+记录 62:
+标题: Germany: Climate will last longer than Trump presidency
+情感判断: 消极
+--------------------------------------------------
+记录 63:
+标题: Donald Trump confuses French translators with mixed-up speeches: 'Trump’s vocabulary is limited, his syntax is broken; he repeats the same phrases over and over'
+情感判断: 消极
+--------------------------------------------------
+记录 64:
+标题: Congress wants Trump Jr. phone records related to Russia meeting
+情感判断: 消极
+--------------------------------------------------
+记录 65:
+标题: New Trump-Russia emails could establish a 'devastating' legal entanglement for Paul Manafort: The emails show a campaign foreign-policy adviser's efforts to set up a meeting between Trump, then a candidate, and Putin.
+情感判断: 消极
+--------------------------------------------------
+记录 66:
+标题: Trump: 'You can thank Congress' for US-Russia relationship's all-time low
+情感判断: 消极
+--------------------------------------------------
+记录 67:
+标题: Irish leader doesn’t regret calling Trump “racist and dangerous”
+情感判断: 消极
+--------------------------------------------------
+记录 68:
+标题: Details in Donald Trump Jr.'s emails align with parts of the explosive Trump-Russia dossier
+情感判断: 消极
+--------------------------------------------------
+记录 69:
+标题: Jared Kushner 'tried and failed to get a $500m loan from Qatar before pushing Trump to take hard line against country'
+情感判断: 消极
+--------------------------------------------------
+记录 70:
+标题: Ivanka Trump has been booed and hissed at by an audience in Berlin after she praised Donald Trump’s stance on women. During her first international outing as a White House advisor, the first daughter argued her father was "a tremendous champion of supporting families”.
+情感判断: 消极
+--------------------------------------------------
+记录 71:
+标题: Russian lobbyist admits meeting Donald Trump Jr in 2016
+情感判断: 消极
+--------------------------------------------------
+记录 72:
+标题: There is now 'more than circumstantial evidence' Donald Trump's campaign colluded with Russia to disrupt election: There is evidence 'very much worth of investigation' says Adam Schiff
+情感判断: 消极
+--------------------------------------------------
+记录 73:
+标题: U.S. President Donald Trump's administration is preparing to ignore any rulings by the World Trade Organization that it sees as an affront to U.S. sovereignty
+情感判断: 消极
+--------------------------------------------------
+记录 74:
+标题: Human Rights Watch lists Trump as threat to human rights: "Donald Trump’s election as US president after a campaign fomenting hatred and intolerance, and the rising influence of political parties in Europe that reject universal rights, have put the postwar human rights system at risk,”
+情感判断: 消极
+--------------------------------------------------
+记录 75:
+标题: 'Climate change is real': companies challenge Trump's reversal of policy: Mars Inc, Staples, The Gap and others speak out against Trump’s sweeping executive order that begins to dismantle Obama’s Clean Power Plan
+情感判断: 消极
+--------------------------------------------------
+记录 76:
+标题: Two-thirds of Britons believe Trump is 'threat to international stability'
+情感判断: 消极
+--------------------------------------------------
+记录 77:
+标题: Russia Considers Returning Snowden to U.S. to ‘Curry Favor’ With Trump: Official
+情感判断: 消极
+--------------------------------------------------
+记录 78:
+标题: Palestinians say Obama’s last-minute $221 million payout frozen by Trump
+情感判断: 积极
+--------------------------------------------------
+记录 79:
+标题: French Dislike Donald Trump Even More Than Putin, Xi and Merkel, Poll Finds
+情感判断: 消极
+--------------------------------------------------
+记录 80:
+标题: Trump: 'I'm not going to rule out a military option' in Venezuela
+情感判断: 消极
+--------------------------------------------------
+记录 81:
+标题: Germany rejects Trump's claim it owes NATO and U.S. 'vast sums' for defense
+情感判断: 中性
+--------------------------------------------------
+记录 82:
+标题: Canada Judge Suspended for Wearing Trump Cap in Court
+情感判断: 消极
+--------------------------------------------------
+记录 83:
+标题: Jared Kushner, Donald Trump Jr and Paul Manafort are to testify before the US Senate next week
+情感判断: 消极
+--------------------------------------------------
+记录 84:
+标题: Trump donor 'kills himself' after revealing he tried to get Hillary Clinton's emails from Russian hackers
+情感判断: 消极
+--------------------------------------------------
+记录 85:
+标题: 20 million people are starving and the media only cares about Trump says UN
+情感判断: 消极
+--------------------------------------------------
+记录 86:
+标题: Saudis And The UAE Will Donate $100 Million To A Fund Inspired By Ivanka Trump
+情感判断: 消极
+--------------------------------------------------
+记录 87:
+标题: Scotland is blocking the expansion of Donald Trump's golf empire
+情感判断: 消极
+--------------------------------------------------
+记录 88:
+标题: Exxon Urges Trump To Stay In Paris Climate Agreement
+情感判断: 消极
+--------------------------------------------------
+记录 89:
+标题: Donald Trump says Germany owes US and Nato 'vast sums of money for defence'
+情感判断: 消极
+--------------------------------------------------
+记录 90:
+标题: US reporters praise German journalists for questioning Trump
+情感判断: 积极
+--------------------------------------------------
+记录 91:
+标题: FBI obtained court order to monitor ex-Trump adviser in Russia probe: The FBI and DOJ obtained the warrant targeting adviser Carter Page's communications after convincing a FISA judge that there was probable cause to believe Page was acting as an agent of a foreign power, in this case Russia,
+情感判断: 积极
+--------------------------------------------------
+记录 92:
+标题: Mexico denies president called Trump to compliment immigration policy
+情感判断: 消极
+--------------------------------------------------
+记录 93:
+标题: Petition calling on UK to cancel Trump state visit reaches 100,000 signature in less than 5 hours.
+情感判断: 消极
+--------------------------------------------------
+记录 94:
+标题: Mexico to Trump: We will not negotiate NAFTA through social media
+情感判断: 消极
+--------------------------------------------------
+记录 95:
+标题: Peru's President Tells Trump He Prefers 'Bridges to Walls'
+情感判断: 消极
+--------------------------------------------------
+记录 96:
+标题: Trump Hotel Received $270,000 From Lobbying Campaign Tied to Saudis
+情感判断: 消极
+--------------------------------------------------
+记录 97:
+标题: Canadians want Trudeau to stand up to Trump, even if it leads to trade war: poll
+情感判断: 消极
+--------------------------------------------------
+记录 98:
+标题: Trump says US troops will remain in Afghanistan as rapid exit would leave 'vacuum' for terrorists
+情感判断: 消极
+--------------------------------------------------
+记录 99:
+标题: Donald Trump has sparked fury after hitting out at Sadiq Khan over his response to the London terror attack: Trump tweeted, “At least 7 dead and 48 wounded in terror attack and Mayor of London says there is ‘no reason to be alarmed!’”
+情感判断: 积极
+--------------------------------------------------
+记录 100:
+标题: World Worries as Trump Set to Dump Paris Climate Deal: Trump has called climate change a "hoax." Tweeted: "This very expensive global warming bullshit has got to stop."
+情感判断: 消极
+--------------------------------------------------
+记录 101:
+标题: Trump thanks Putin for expelling US diplomats: 'We want to reduce our payroll'
+情感判断: 消极
+--------------------------------------------------
+记录 102:
+标题: Donald Trump defends Vladimir Putin, saying "Well, you think our country is so innocent?"
+情感判断: 积极
+--------------------------------------------------
+记录 103:
+标题: Eight countries sign up to counter Trump's global anti-abortion move
+情感判断: 消极
+--------------------------------------------------
+记录 104:
+标题: Canada's highest court upholds ruling that Donald Trump did mislead investors
+情感判断: 消极
+--------------------------------------------------
+记录 105:
+标题: No one wants to help Donald Trump build a registry of Muslims: Tech giants Microsoft and IBM have said they would refuse to help create a registry of Muslim Americans under Trump's presidency
+情感判断: 消极
+--------------------------------------------------
+记录 106:
+标题: Venezuelan president Nicolas Maduro donates $500,000 to Trump fund despite economic woes
+情感判断: 消极
+--------------------------------------------------
+记录 107:
+标题: The FBI has information that indicates associates of President Donald Trump communicated with suspected Russian operatives to possibly coordinate the release of information damaging to Hillary Clinton's campaign, US officials told CNN.
+情感判断: 消极
+--------------------------------------------------
+记录 108:
+标题: Trump Administration to Resume Blocked Arms Sales to Saudi Arabia
+情感判断: 积极
+--------------------------------------------------
+记录 109:
+标题: Donald Trump has reportedly had trouble getting a hotel room for the upcoming G20 summit in Hamburg, Germany. His team apparently waited too long to book accommodations for the President and his travelling staff and were told none of the major hotels had vacancies
+情感判断: 消极
+--------------------------------------------------
+记录 110:
+标题: FBI and NSA Chiefs Forced to Fact-Check Boss as Trump Live-Tweets Hearing: 'Either the White House is spreading falsehoods about this hearing on its Twitter account or the FBI director just perjured himself on TV,' remarks one journalist
+情感判断: 消极
+--------------------------------------------------
+记录 111:
+标题: Vatican Compares Trump To Flat-Earthers Over His Climate Agreement Withdrawal: “Thinking that we need and must rely on coal and oil is like claiming that the Earth is not round. It’s an absurdity brought forward only to make money,” Bishop Sanchez Sorondo stated.
+情感判断: 消极
+--------------------------------------------------
+记录 112:
+标题: Study Shows Massive Global Permafrost Melt Underway While Trump Mentions Climate Not Once: Research shows immense expanses of permafrost rapidly disintegrating and releasing huge carbon stores in Canada, Alaska, Scandinavia, and Siberia
+情感判断: 消极
+--------------------------------------------------
+记录 113:
+标题: Mexican president says he will not go to U.S. for meeting with Trump
+情感判断: 消极
+--------------------------------------------------
+记录 114:
+标题: Global Anger and Dismay After Trump Slams Brakes on U.S. Climate Action: "Whoever tries to change into reverse gear is only going to harm themselves when it comes to international competitiveness," German environment minister Barbara Hendricks
+情感判断: 消极
+--------------------------------------------------
+记录 115:
+标题: Top Donald Trump aide defends wearing medal linked to Hungarian Nazi sympathisers
+情感判断: 消极
+--------------------------------------------------
+记录 116:
+标题: Trump Administration Secretly Began Effort to Ease Sanctions with Russia in January
+情感判断: 消极
+--------------------------------------------------
+记录 117:
+标题: Moscow denies having compromising information about Trump: "[Kremlin] does not engage in collecting compromising material."
+情感判断: 消极
+--------------------------------------------------
+记录 118:
+标题: Trump’s business sought deal on a Trump Tower in Moscow while he ran for president
+情感判断: 积极
+--------------------------------------------------
+记录 119:
+标题: Elon Musk to Trump: Ditch Paris deal and I'll quit as your adviser
+情感判断: 消极
+--------------------------------------------------
+记录 120:
+标题: Iran will ban Americans from entering the country in response to Trump’s “insulting” order restricting arrivals from Iran and six other Muslim states
+情感判断: 积极
+--------------------------------------------------
+记录 121:
+标题: The White House has confirmed reports that President Donald Trump helped draft a statement on his son's meeting last year with a Russian lawyer.
+情感判断: 消极
+--------------------------------------------------
+记录 122:
+标题: US military officials: Trump-ordered raid in Yemen that killed US Navy SEAL was approved 'without sufficient intelligence'
+情感判断: 消极
+--------------------------------------------------
+记录 123:
+标题: Canadian Scientists Warn U.S. Colleagues: Act Now to Protect Science under Trump - Back up data and speak out ahead of next month’s inauguration, they advise
+情感判断: 积极
+--------------------------------------------------
+记录 124:
+标题: The White House has confirmed reports that President Donald Trump helped draft a statement on his son's meeting last year with a Russian lawyer.
+情感判断: 消极
+--------------------------------------------------
+记录 125:
+标题: Alex Salmond: Trump is ‘a complete and utter nincompoop’: ‘The Grand Canyon is a minor crevice compared to the vast chasm of ignorance’ that is Trump, says ex-SNP leader.
+情感判断: 消极
+--------------------------------------------------
+记录 126:
+标题: European official says their country might stop sharing intelligence with US if Trump gave classified information to Russia
+情感判断: 消极
+--------------------------------------------------
+记录 127:
+标题: Donald Trump is facing a pre-emptive backlash over his reported plans for a ban on people from seven Muslim-majority countries entering the US
+情感判断: 消极
+--------------------------------------------------
+记录 128:
+标题: Transcript released: Trump urged Mexican president to stop criticizing wall
+情感判断: 中性
+--------------------------------------------------
+记录 129:
+标题: Trump Urged to Stop Saudi Arabia's Beheading of Student Set to Study in U.S.
+情感判断: 消极
+--------------------------------------------------
+记录 130:
+标题: Donald Trump's torture comments 'enough to make my blood run cold', says UN human rights expert: British lawyer Ben Emmerson says Trump's comments make him question 'whether anything at all has been achieved in the last 15 years'
+情感判断: 消极
+--------------------------------------------------
+记录 131:
+标题: Trump is reportedly being pressured by a billionaire financier and a chemical executive to extend the scope of the conflict for one simple, greedy reason: to exploit Afghanistan's mineral reserves.
+情感判断: 消极
+--------------------------------------------------
+记录 132:
+标题: Mexico: Massive anti-Trump rallies staged across nation
+情感判断: 消极
+--------------------------------------------------
+记录 133:
+标题: Trump defends 'right' to share secrets - BBC News
+情感判断: 积极
+--------------------------------------------------
+记录 134:
+标题: European intelligence is intercepting communications between Trump advisers and Russian officials
+情感判断: 消极
+--------------------------------------------------
+记录 135:
+标题: Theresa May stands firm on Trump's state visit as thousands protest: Thousands took to the streets in cities across the UK, including Manchester, Cardiff, Glasgow, Edinburgh and in London. Crowds gathered just metres from the gates of Downing Street, chanting: “Shame on May.”
+情感判断: 中性
+--------------------------------------------------
+记录 136:
+标题: Germany's Angela Merkel attacks Donald Trump for targeting 'people from specific background or faith'
+情感判断: 消极
+--------------------------------------------------
+记录 137:
+标题: Trump Against The World: All Nations But U.S. Back Climate Agreement At G20
+情感判断: 消极
+--------------------------------------------------
+记录 138:
+标题: Trump asked DNI, NSA to deny evidence of Russia collusion
+情感判断: 积极
+--------------------------------------------------
+记录 139:
+标题: Jane Goodall calls Trump's climate change agenda 'immensely depressing' - The renowned primatologist is dismayed by Trump administration’s climate skepticism, but says people have ‘woken up’ to the dangers of doing nothing
+情感判断: 消极
+--------------------------------------------------
+记录 140:
+标题: China warns Donald Trump not to ‘Escalate’ North Korea situation with erratic tweets
+情感判断: 消极
+--------------------------------------------------
+记录 141:
+标题: Trump praises Australian universal health care system at meeting with prime minister
+情感判断: 积极
+--------------------------------------------------
+记录 142:
+标题: China knocks Trump's tweets: 'Emotional venting' cannot become policy
+情感判断: 消极
+--------------------------------------------------
+记录 143:
+标题: Trump asked two top intelligence officials to deny Russia collusion: Washington Post
+情感判断: 消极
+--------------------------------------------------
+记录 144:
+标题: US Senate calls British spy Chris Steele to give evidence on explosive Trump Russia dossier
+情感判断: 积极
+--------------------------------------------------
+记录 145:
+标题: Putin told Trump that Russian hackers were too good to get caught
+情感判断: 消极
+--------------------------------------------------
+记录 146:
+标题: Trump leaked to the Russians that Israel successfully hacked ISIS computers
+情感判断: 积极
+--------------------------------------------------
+记录 147:
+标题: The FBI gathered intelligence in the summer of 2016 confirming Russian operatives tried to influence Trump's team — not just the election itself
+情感判断: 消极
+--------------------------------------------------
+情感统计结果:积极: 22 条 (14.9%)中性: 5 条 (3.4%)消极: 121 条 (81.8%)
